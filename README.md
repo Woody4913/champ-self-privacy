@@ -7,9 +7,9 @@ This repository contains a lightweight static privacy-policy website for Champ S
 - `index.html` - the public privacy policy page
 - `README.md` - deployment instructions
 
-## Before Publishing
+## Contact Email
 
-Replace the contact placeholder in `index.html` with the appropriate public support or privacy email address for Champ Self.
+The published privacy policy currently uses `wood4913@gmail.com` as the Champ Self privacy contact. To change it later, edit the contact section in `index.html`.
 
 ## GitHub Pages Deployment
 
